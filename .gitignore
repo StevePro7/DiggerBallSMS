@@ -11,7 +11,7 @@
 *.ihx
 *.lk
 *.noi
-linkfile
+#linkfile
 
 # Prerequisites
 *.d
